@@ -1,4 +1,4 @@
-module github.com/data-buddies-llc/transaction/edison_producer
+module github.com/Ancordss/projects/kafka
 
 go 1.20
 
